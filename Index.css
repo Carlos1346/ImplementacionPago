@@ -1,0 +1,105 @@
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #f3f7fc;
+}
+
+img {
+  height: 500px;
+}
+
+#Secciones {
+  box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.1);
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  
+}
+
+#Footer{
+  margin-top: 20px;
+  background-color: white;
+  padding: 20px;
+}
+
+.navbar-brand,
+.nav-link {
+  font-size: 1.2rem;
+}
+
+.card-title {
+  font-size: 1.5rem;
+  color: #343a40;
+}
+
+.card-text {
+  font-size: 1rem;
+  color: #6c757d;
+}
+
+.card-body h3 {
+  color: #28a745;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border: none;
+  border-radius: 20px;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+.media img {
+  width: 64px;
+  height: 64px;
+}
+
+.media-body h5 {
+  font-size: 1.2rem;
+  margin-top: 0;
+}
+
+.text-warning {
+  font-size: 1.2rem;
+}
+
+
+
+
+.footer h3 {
+  font-size: 1.8rem; 
+}
+
+.footer p {
+  font-size: 1.1rem; 
+}
+
+.footer a {
+  color: #000000; 
+}
+
+.footer a:hover {
+  text-decoration: none;
+}
+
+.footer .list-group-item {
+  background-color: transparent; 
+  border: none; 
+}
+
+.footer .list-group-item a {
+  color: #000000; 
+}
+
+.footer .list-group-item a:hover {
+  text-decoration: none;
+}
+
+.footer .list-inline-item {
+  margin-right: 15px; 
+}
+
+.footer .copyright {
+  font-size: 0.9rem; 
+}
